@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,AAAA,CACD,SAAS,CAAC,MAAM,CAChB,WAAW,CAAE,sBAAsB,CACtC,AACD,AAAA,MAAM,AAAA,CACF,WAAW,CAAE,sBAAsB,CACnC,SAAS,CAAC,MAAM,CACnB,AACD,AAAA,gBAAgB,AAAA,CACZ,WAAW,CAAE,sBAAsB,CACnC,SAAS,CAAC,MAAM,CACnB",
+    "sources": [
+        "../translate.scss"
+    ],
+    "names": [],
+    "file": "translate.min.css"
+}
