@@ -7,7 +7,7 @@ Make sure rust is up to date. 1.56 or higher (to check do rustc --version)
 
 if not then copy and paste this. curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-then after the update type target add wasm32-unkown-unknown in the terminal
+then after the update type rustup target add wasm32-unknown-unknown in the terminal
 
 next type install trunk
 
