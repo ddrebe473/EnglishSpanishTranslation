@@ -65,9 +65,8 @@ pub fn translate_phrase (phrase: &String) -> String {
 
 }
 
-
 pub fn translate_word (s: &String) -> String {
-
+    
     match s.to_ascii_lowercase().as_str(){
             
         "hi" | "hello" | "howdy" => "hola".to_string(),
