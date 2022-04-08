@@ -5,7 +5,7 @@ download the code
 
 Make sure rust is up to date. 1.56 or higher (to check do rustc --version)
 
-if not then copy and paste this. curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+if not then copy and paste this. rustup update stable
 
 
 then after the update type this in the terminal
